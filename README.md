@@ -1,15 +1,8 @@
-<h1 align="center">Hallo 👋, Ich bin Erik</h1>
-<h3 align="center">frontend & backend developer from Germany 🇩🇪</h3>
+<h3 align="center">Hi there 👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eerik187&label=Profile%20views&color=0e75b6&style=flat" alt="eerik187" /> </p>
 
 <p align="left"> <a href="https://twitter.com/erikgtn" target="blank"><img src="https://img.shields.io/twitter/follow/erikgtn?logo=twitter&style=for-the-badge" alt="erikgtn" /></a> </p>
-
-- 🔭 I’m currently working on **TheBay**
-
-- 🌱 I’m currently learning **lua**
-
-- ⚡ Fun fact **Ich bin lustig.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
